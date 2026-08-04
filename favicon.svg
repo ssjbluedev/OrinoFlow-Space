@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none">
+  <title>Orino Flow Icon</title>
+  <circle cx="560" cy="512" r="250" stroke="#A3D200" stroke-width="92" stroke-linecap="round"/>
+  <circle cx="118" cy="350" r="28" fill="#A3D200"/>
+  <circle cx="118" cy="512" r="28" fill="#A3D200"/>
+  <circle cx="118" cy="674" r="28" fill="#A3D200"/>
+  <path d="M146 350 C250 350 264 410 350 410 H430" stroke="#A3D200" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M146 512 H430" stroke="#A3D200" stroke-width="34" stroke-linecap="round"/>
+  <path d="M146 674 C250 674 264 614 350 614 H430" stroke="#A3D200" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="430" cy="410" r="24" fill="#A3D200"/>
+  <circle cx="430" cy="512" r="24" fill="#A3D200"/>
+  <circle cx="430" cy="614" r="24" fill="#A3D200"/>
+  <circle cx="782" cy="512" r="30" fill="#A3D200"/>
+  <path d="M812 512 H900" stroke="#A3D200" stroke-width="38" stroke-linecap="round"/>
+  <path d="M900 450 L972 512 L900 574 Z" fill="#A3D200"/>
+  <path d="M828 154 C842 211 859 228 916 242 C859 256 842 273 828 330 C814 273 797 256 740 242 C797 228 814 211 828 154Z" fill="#A3D200"/>
+</svg>
